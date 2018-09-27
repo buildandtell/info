@@ -126,3 +126,8 @@ These are a variety of different tasks, will help us decide which one works and 
 ## Expectations:
 Till december 2018, expected active members: 07
 
+## Closing thoughts
+Quoting Paras Pundir:
+> "It can be a life changing initiative if worked consistently with a proper strategy."
+
+I am already e-meeting amazing people from Guwahati and nearby places, I hope this community works out and we can have a great community here. :)
