@@ -14,15 +14,15 @@ Links:
 buildandtell is an educational community primarily focusing on tech events/meetups, open source and getting more people into computer science by resource sharing.
 
 ### Contents
-- [What will we do in the community?]()
-- [Audience and how to reach them?]()
-- [Online Services]()
-- [Primary Playground - The Forum]()
-- [What we lack?]()
-- [Issues]()
-- [Roadmap]()
+- [What will we do in the community?](https://github.com/buildandtell/info#about)
+- [Audience and how to reach them?](https://github.com/buildandtell/info#audience-and-how-to-reach-them)
+- [Online Services](https://github.com/buildandtell/info#online-services)
+- [Primary Playground - The Forum](https://github.com/buildandtell/info#primary-playground---the-forum)
+- [What we lack?](https://github.com/buildandtell/info#what-we-lack)
+- [Issues](https://github.com/buildandtell/info#issues)
+- [Roadmap](https://github.com/buildandtell/info#roadmap)
 
-## What will we do in the community?
+## About
 The utopian buildandtell community will be one where a bunch of learners come together with the things they built and tell other members how they did that, resulting in an interactive learning experience.
 Since majority of learners are not building things already; so initially the community is about teaching learners how to build things through **open source contributions, tech events** and **online and offline interactions.**
 
