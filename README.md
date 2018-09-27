@@ -78,6 +78,8 @@ The primary place for keeping in touch with the community will be the discourse 
 	- What problems are you facing in the community?
 	- Who would you like us to invite for an AMA? (Hangouts/Text AMA)
 	- Introduce yourself to the forum
+	- Ideas on how we can use tech to solve current problems in Assam
+      - eg. A friend recently deviced an excellent prototype solution to Rhino poaching
 
 Offline, the most important playground to grow the community will always be events and meetups.
 
