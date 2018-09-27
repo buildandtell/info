@@ -13,6 +13,21 @@ Links:
 
 buildandtell is an educational community primarily focusing on tech events/meetups, open source and getting more people into computer science by resource sharing.
 
+### Contents
+- [What will we do in the community?]()
+- [Audience and how to reach them?]()
+- [Online Services]()
+- [Primary Playground - The Forum]()
+- [What we lack?]()
+- [Issues]()
+- [Roadmap]()
+
+## What will we do in the community?
+The utopian buildandtell community will be one where a bunch of learners come together with the things they built and tell other members how they did that, resulting in an interactive learning experience.
+Since majority of learners are not building things already; so initially the community is about teaching learners how to build things through **open source contributions, tech events** and **online and offline interactions.**
+
+Not only this will help learners learn better and get better opportunities, it will also help in better activism and bonding in the state. Take example of how the developer community in Kerala came together during 2018 floods to build [Kerala Rescue](https://keralarescue.in/)
+
 ## Audience and how to reach them?
 - People who love communities
   - Contact these people directly
@@ -26,11 +41,6 @@ buildandtell is an educational community primarily focusing on tech events/meetu
   - School sessions
   - Organizing events for school students
 
-## What will we do exactly in the community?
-The utopian buildandtell community will be one where a bunch of learners come together with the things they built and tell other members how they did that, resulting in an interactive learning experience.
-Since majority of learners are not building things already; so initially the community is about teaching learners how to build things through open source contributions, tech events and online and offline interactions.
-
-Not only this will help learners learn better and get better opportunities, it will also help in better activism and bonding in the state. Take example of how the developer community in Kerala came together during 2018 floods to build [Kerela Rescue](https://keralarescue.in/)
 
 ## Online services
 The website, wiki, wikifarm and the forum will all be in one server.
