@@ -136,3 +136,6 @@ Quoting Paras Pundir:
 > "It can be a life changing initiative if worked consistently with a proper strategy."
 
 I am already e-meeting amazing people from Guwahati and nearby places, I hope this community works out and we can have a great community here. :)
+
+Quoting Akshay:
+> "The spirit of Mozilla is when people use the internet to overcome barriers like money/geography"
