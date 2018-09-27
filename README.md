@@ -129,7 +129,7 @@ These are a variety of different tasks, will help us decide which one works and 
 ## Expectations:
 Till december 2018
 - expected active members: ~10
-- expected total community members: ~50
+- expected total community members: ~30
 
 ## Closing thoughts
 Quoting Paras Pundir:
