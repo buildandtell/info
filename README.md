@@ -90,7 +90,7 @@ Offline, the most important playground to grow the community will always be even
 	- Setup all online services
 	- Seed forum and Wiki with enough resources and contents
 - October 2018
-	- Organize 1-2 offline events at colleges and spread information about the community
+	- > Organize 1-2 offline events at colleges and spread information about the community
 	- People joining the forum should comment on the Introduce yourself post, and post a question from their field related to the community.
 	- Find at least 3 mentors based on community member interests from the intro posts
 	- Send out first newsletter
@@ -99,14 +99,14 @@ Offline, the most important playground to grow the community will always be even
 	- Newsletter
 	- Hold the first online hangouts learning session
 	- Keep the forum active
-	- Reach out to local firms in search of technical solutions which can be built by a beginner
+	- > Reach out to local firms in search of technical solutions which can be built by a beginner
 	- Newsletter
 - December 2018
 	- Interesting discussions in forums
 	- Newsletter
-	- Deliver a solution made by a community member to a local firm
-	- Have first meetup during winter break
-	- Hour of Code
+	- > Deliver a solution made by a community member to a local firm
+	- > Have first meetup during winter break
+	- > Hour of Code
 	- Introduce mozilla and other communities to to our community
 	- Newsletter
 
