@@ -97,28 +97,28 @@ Offline, the most important playground to grow the community will always be even
 ## Roadmap:
 > **offline events are shown like this**
 - **September 2018**
-	- Setup all online services
+	- Setup all online services :satellite:
 	- Seed forum and Wiki with enough resources and contents
 - **October 2018**
-	- > Organize 1-2 offline events at colleges and spread information about the community
+	- > Organize 1-2 offline events at colleges and spread information about the community :octocat:
 	- People joining the forum should comment on the Introduce yourself post, and post a question from their field related to the community.
-	- Find at least 3 mentors based on community member interests from the intro posts
-	- Send out first newsletter
+	- Find at least 3 mentors based on community member interests from the intro posts :squirrel:
+	- Send out first newsletter :mega:
 - **November 2018**
-	- Hold the first AMA on OSS
-	- Newsletter
+	- Hold the first AMA on OSS :movie_camera:
+	- Newsletter :mega:
 	- Hold the first online hangouts learning session
 	- Keep the forum active
 	- > Reach out to local firms in search of technical solutions which can be built by a beginner
-	- Newsletter
+	- Newsletter:mega:
 - **December 2018**
 	- Interesting discussions in forums
-	- Newsletter
+	- Newsletter :mega:
 	- > Deliver a solution made by a community member to a local firm
-	- > Have first meetup during winter break
+	- > Have first meetup during winter break! :confetti_ball: :santa:
 	- > Hour of Code
 	- Introduce mozilla and other communities to to our community
-	- Newsletter
+	- Newsletter :mega:
 
 These are a variety of different tasks, will help us decide which one works and which does not.
 
