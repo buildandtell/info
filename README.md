@@ -28,6 +28,8 @@ Since majority of learners are not building things already; so initially the com
 
 Not only will this help learners learn better and get better opportunities, it will also help in better activism and bonding in the state. Take example of how the developer community in Kerala came together during 2018 floods to build [Kerala Rescue](https://keralarescue.in/)
 
+> **Key questions like "Do we want to get people for the sake of growing, or do we want to just have our doors open for anybody who finds what we do interesting?" or even "Do we want a society out of this? (Not only in terms of structure, but how people see themselves and others in it)" may well determine the direction of buildandtell.** - slightly modified comment from Vikrant Varma's blog
+
 ## Audience and how to reach them?
 - People who love communities
   - Contact these people directly
