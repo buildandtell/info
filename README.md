@@ -8,8 +8,7 @@ Guwahati
 Links:
 - [Initial draft - July 2018](http://bit.ly/btdraft1)
 - [Action plan - August 2018](http://bit.ly/btdraft2)
-- [Community Management Trello Board](http://bit.ly/bttrello)
-*trello board is private, ask for access permissions if needed.*
+- [Community Management Trello Board](http://bit.ly/bttrello) (public)
 
 buildandtell is an educational community primarily focusing on tech events/meetups, open source and getting more people into computer science by resource sharing.
 
