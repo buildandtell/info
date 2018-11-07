@@ -10,7 +10,7 @@ Links:
 - [Action plan - August 2018](http://bit.ly/btdraft2)
 - [Community Management Trello Board](http://bit.ly/bttrello) (public)
 
-buildandtell is an educational community primarily focusing on tech events/meetups, open source and getting more people into computer science by resource sharing.
+buildandtell is an educational community primarily focusing on tech events/meetups, free software and getting more people into computer science by resource sharing.
 
 ### Contents
 - [About](https://github.com/buildandtell/info/blob/master/README.md#about)
@@ -46,6 +46,8 @@ Not only will this help learners learn better and get better opportunities, it w
 ## Online services
 The website, wiki, wikifarm and the forum will all be in one server.
 
+- A website(homepage)
+	- should have a license page like [this](https://beta.observablehq.com/open-source)
 - A discourse forum to start discussions
 	- `community.buildandtell.org`
 - A wiki for resource sharing for the community
