@@ -61,6 +61,7 @@ The website, wiki, wikifarm and the forum will all be in one server.
 	- Just for quick updates or questions.
 - A facebook page
 - A twitter account
+- Will also try to run a tor node
 
 **Questions:**
 
