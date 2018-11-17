@@ -63,6 +63,9 @@ The website, wiki, wikifarm and the forum will all be in one server.
 - A twitter account
 - Will also try to run a tor node
 
+Other services:
+http://bend.hackersguild.us/#page-main
+
 **Questions:**
 
 - Should we use docu wiki or MediaWiki? Docu will be super light on server. I'd vote for docu.
